@@ -26,7 +26,7 @@ In addition to aiding manufacturers, digital twins provide significant value dur
 
 ![Tesla](https://github.com/user-attachments/assets/638188a4-6a83-4059-b8c8-aa1becf5c95d)
 
-Creating a digital twin for the 2025 Tesla Model 3 involves replicating its systems and components in a virtual environment to analyze performance, optimize design, and predict behavior. To begin, we’ll focus on the entire vehicle simulation, which includes modeling the powertrain, battery, motor, drivetrain, thermal management, and overall vehicle dynamics. 
+Creating a digital twin for the 2025 Tesla Model 3 involves replicating its systems and components in a virtual environment to analyze performance, optimize design, and predict behavior. This simulation is the entire vehicle simulation, which includes modeling the powertrain, battery, motor, drivetrain, thermal management, and overall vehicle dynamics. 
 
 ```
 % Tesla Model 3 Digital Twin Simulation
